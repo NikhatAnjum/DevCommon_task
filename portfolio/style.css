@@ -5,6 +5,16 @@
     background-size:cover;
     position:relative;
 }
+.textcol {
+    width: 50%;
+}
+.textcol img {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid rgb(89, 89, 239);
+}
 #hola{
     display: inline-block;
 }
